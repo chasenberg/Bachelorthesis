@@ -1,0 +1,26 @@
+build/
+*~
+*.pdf
+*.png
+*.eps
+*.txt.new
+basename
+max_id
+max_seed
+submit_dootoycp.sh
+job_bulk_dir/
+control_dootoycp
+summary/
+cmake/
+tex/
+.DS_Store
+.dropbox/
+.dropbox.cache/
+Bachelor-Arbeit/
+Dokumente/
+Fortgeschrittenen Praktikum 2015/
+HQM2015/
+Icon\r
+src/.DS_Store
+CMakeLists.txi
+dootoycp_different-config.txt

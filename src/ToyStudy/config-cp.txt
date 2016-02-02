@@ -1,0 +1,12 @@
+[toyfac]
+
+parameter_read_file = /home/chasenberg/Repository/bachelor-template/ToyStudy/parameters-cp.txt
+pdf_name_ws = pdf_total-cp
+argset_name_ws = Observables
+
+[toystudy]
+
+parameter_genvalue_read_file=/home/chasenberg/Repository/bachelor-template/ToyStudy/parameters-cp.txt
+store_result_filename_treename=/home/chasenberg/Repository/bachelor-template/ToyStudy/result_mass_parametrization-cp.root,results
+read_results_filename_treename=/home/chasenberg/Repository/bachelor-template/ToyStudy/result_mass_parametrization-cp.root,results
+plot_directory=/home/chasenberg/Repository/bachelor-template

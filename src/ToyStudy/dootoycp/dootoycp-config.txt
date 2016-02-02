@@ -1,0 +1,12 @@
+[toyfac]
+
+parameter_read_file = /home/chasenberg/Repository/bachelor-template/ToyStudy/dootoycp-parameter.txt
+pdf_name_ws = pdfExtend
+argset_name_ws = Observables
+
+[toystudy]
+
+parameter_genvalue_read_file=/home/chasenberg/Repository/bachelor-template/ToyStudy/dootoycp-parameter.txt
+store_result_filename_treename=/net/lhcb-tank/home/chasenberg/Ergebnis/dootoycp/dootoycp-results.root,results
+read_results_filename_treename=/net/lhcb-tank/home/chasenberg/Ergebnis/dootoycp/dootoycp-results.root,results
+plot_directory=/net/lhcb-tank/home/chasenberg/Ergebnis/dootoycp

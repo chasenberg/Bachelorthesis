@@ -1,0 +1,12 @@
+[toyfac]
+
+parameter_read_file=/home/chasenberg/Repository/bachelor-template/ToyStudy/f_param.txt
+pdf_name_ws=pdfExtend
+argset_name_ws=Observables
+
+[toystudy]
+
+parameter_genvalue_read_file=/home/chasenberg/Repository/bachelor-template/ToyStudy/f_param.txt
+store_result_filename_treename=/net/storage03/data/users/chasenberg/ergebnis/dootoycp_float-phido/D/test/dootoycp_float-results.root,results
+read_results_filename_treename=/net/storage03/data/users/chasenberg/ergebnis/dootoycp_float-phido/D/test/dootoycp_float-results.root,results
+plot_directory=/net/storage03/data/users/chasenberg/ergebnis/dootoycp_float-phido/D/test/

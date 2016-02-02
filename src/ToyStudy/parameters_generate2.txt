@@ -1,0 +1,20 @@
+bkg_Yield =  7000.0 L(0 - 14000) 
+fraction =  0.40000 C L(0 - 1) 
+obsTimeErr =  0.10000 C L(0 - 0.2) 
+pdf_bkg_mass_lambda = -0.001000000 L(-0.0074 - 0) 
+pdf_bkg_time_tau =  0.30000 C L(0 - 3) 
+pdf_res_mean =  0.0000 C L(-5 - 5) 
+pdf_sig_mass_mean =  5280.0 L(5230 - 5330) 
+pdf_sig_mass_width =  10.000 L(1 - 15) 
+pdf_sig_time_tau =  1.5160 C L(0 - 3) 
+scale =  3.0000 C L(0 - 4) 
+sig_Yield =  50000 L(0 - 100000) 
+
+
+
+
+
+
+
+
+

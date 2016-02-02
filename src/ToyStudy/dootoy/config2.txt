@@ -1,0 +1,12 @@
+[toyfac]
+
+parameter_read_file = /home/chasenberg/Repository/bachelor-template/ToyStudy/parameters_generate2.txt
+pdf_name_ws = pdf_total
+argset_name_ws = Observables
+
+[toystudy]
+
+parameter_genvalue_read_file=/home/chasenberg/Repository/bachelor-template/ToyStudy/parameters_generate2.txt
+store_result_filename_treename=/net/lhcb-tank/home/chasenberg/Ergebnis/dootoy2/mass_parametrization2.root,results
+read_results_filename_treename=/net/lhcb-tank/home/chasenberg/Ergebnis/dootoy2/mass_parametrization2.root,results
+plot_directory=/net/lhcb-tank/home/chasenberg/Ergebnis/dootoy2

@@ -1,0 +1,23 @@
+
+pdf_sig_mass_mean = 5280  L(5230 - 5330)
+pdf_sig_mass_width = 10  L(1 - 15)
+pdf_bkg_mass_lambda = -0.001  L(-0.0074 - 0)
+sig_Yield = 50000  L(0.0 - 100000)
+bkg_Yield = 7000  L(0.0 - 14000)
+pdf_bkg_time_tau = 0.3 C L(0.0 - 3.0)
+pdf_sig_time_tau = 1.516 C L(0.0 - 3.0)  
+pdf_res_mean = 0.0 C L(-5.0 - 5.0) 
+obsTimeErr =  0.1 C L(0 - 0.2) 
+scale = 3 C L(0 - 4)
+fraction = 0.4 C L(0 - 1)
+
+
+
+
+
+
+
+
+
+
+

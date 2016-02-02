@@ -1,0 +1,59 @@
+
+
+#CP-Parameter
+C_f = 0.999 C  L(-5 - +5) 
+C_fbar = 0.999 C  L(-5 - +5) 
+S_f = 0.0303 C  L(-5 - +5) 
+S_fbar = -0.0285 C  L(-5 - +5) 
+#bis hierher die CP-Parameter für die trigonometrischen Funktionen
+
+
+#mögliche Detektionsasymmetrien zwischen B- und Bbar-Mesonen
+asym_det = 0.0000 C L(-INF - +INF) 
+
+#Auflösung
+allTimeResMean = 0.0000 C L(-INF - +INF) 
+allTimeReso = 0.050000 C L(-INF - +INF) //mittlere Auflösung von 50 fs
+
+#mögliche Produktionsasymmetrien zwischen B- und Bbar-Mesonen
+#asym_prod = -0.0108 C L(-INF - +INF) für dootoycp_gen
+#asym_prodFit = 0.0  L(-INF - +INF) 
+asym_prod = 0.0 C L(-INF - +INF) 
+
+#Taggingeffizienzasymmetrien zwischen B- und Bar-Mesonen
+asym_tageff = 0.0000 C L(-INF - +INF) 
+
+#die vier CP-Parameter vor den hyperbolischen Funktionen
+f0_f = 1.0000 C L(-INF - +INF) 
+f0_fbar = 1.0000 C L(-INF - +INF) 
+f1_f = 0.0109 C L(-INF - +INF)
+f1_fbar = 0.01504 C L(-INF - +INF) 
+deltaM = 0.5100 C L(-INF - +INF) 
+dgamma = -0.029  L(-INF - +INF) 
+
+
+
+#Taggingeffizienz, hier zunächst auf 1 gesetzt, es wird so also angenommen, dass alle generierten Ereignisse eine tag-Entscheidung haben
+tageff = 1.0000 C L(-INF - +INF) 
+
+#Lebenszeit des B-Mesons
+tau = 1.5120 C L(0 - 5) 
+
+#Mistag-Wahrscheinlichkeit für B-Mesonen
+#eta = 0.36985 C L(-INF - +INF) 
+
+#Mistag-Wahrscheinlichkeit für Bbar-Mesonen
+#etabar = 0.36985 C L(-INF - +INF) 
+
+parCSpline1 =  0.00000041005 C L(0 - 10000) 
+parCSpline10 =  2.1581 C L(0 - 10000) 
+parCSpline11 =  1.8872 C L(0 - 10000) 
+parCSpline2 =  0.099718 C L(0 - 10000) 
+parCSpline3 =  0.31240 C L(0 - 10000) 
+parCSpline4 =  0.39277 C L(0 - 10000) 
+parCSpline5 =  0.96403 C L(0 - 10000) 
+parCSpline6 =  0.72634 C L(0 - 10000) 
+parCSpline7 =  2.1638 C L(0 - 10000) 
+parCSpline8 =  2.1813 C L(0 - 10000) 
+parCSpline9 =  2.7230 C L(0 - 10000) 
+

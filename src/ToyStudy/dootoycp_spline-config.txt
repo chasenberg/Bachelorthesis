@@ -1,0 +1,12 @@
+[toyfac]
+
+parameter_read_file = /home/chasenberg/Repository/bachelor-template/ToyStudy/dootoycp-parameter_spline.txt
+pdf_name_ws=pdfExtend
+argset_name_ws=Observables
+
+[toystudy]
+
+parameter_genvalue_read_file=/home/chasenberg/Repository/bachelor-template/ToyStudy/dootoycp-parameter_spline.txt
+store_result_filename_treename=/net/big-tank/bachelor/chasenberg/Ergebnis/dootoycp_spline-phido/450000Yields1000toys/dootoycp_spline-results1.root,results
+read_results_filename_treename=/net/big-tank/bachelor/chasenberg/Ergebnis/dootoycp_spline-phido/450000Yields1000toys/dootoycp_spline-results1.root,results
+plot_directory=/net/big-tank/bachelor/chasenberg/Ergebnis/dootoycp_spline-phido/450000Yields1000toys/
